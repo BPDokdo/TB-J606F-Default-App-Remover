@@ -37,7 +37,7 @@ Duo .\adb shell pm uninstall --user 0 com.google.android.apps.tachyon
 
 Entertainment Space .\adb shell pm uninstall -k --user 0 com.google.android.apps.mediahome.launcher
 
-Gmail .\adb shell pm uninstall --user 0 com.google.android.gm (Other)
+Gmail .\adb shell pm uninstall --user 0 com.google.android.gm
 
 Google .\adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
 
