@@ -35,8 +35,6 @@ Chrome .\adb shell pm uninstall --user 0 com.android.chrome
 
 Duo .\adb shell pm uninstall --user 0 com.google.android.apps.tachyon
 
-Entertainment Space .\adb shell pm uninstall -k --user 0 com.google.android.apps.mediahome.launcher
-
 Gmail .\adb shell pm uninstall --user 0 com.google.android.gm
 
 Google .\adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
@@ -56,5 +54,13 @@ Kids Space .\adb shell pm uninstall --user 0 com.google.android.apps.kids.home
 Youtube .\adb shell pm uninstall --user 0 com.google.android.youtube
 
 YT Music .\adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
+
+----------------------------------------------------------------------------------------------------
+
+Apps by System
+
+----------------------------------------------------------------------------------------------------
+
+Entertainment Space .\adb shell pm uninstall -k --user 0 com.google.android.apps.mediahome.launcher
 
 ----------------------------------------------------------------------------------------------------
