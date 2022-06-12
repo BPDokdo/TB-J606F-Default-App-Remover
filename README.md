@@ -7,8 +7,6 @@ Apps by Lenovo
 
 도우미 .\adb shell pm uninstall --user 0 com.tblenovo.lenovotips
 
-디지털 웰빙 .\adb shell pm uninstall --user 0 com.google.android.apps.wellbeing
-
 시계 .\adb shell pm uninstall --user 0 com.google.android.deskclock
 
 주소록 .\adb shell pm uninstall --user 0 com.google.android.contacts
